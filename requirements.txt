@@ -1,0 +1,3 @@
+pelican[Markdown]
+nbconvert==4.6
+pelican-jupyter==0.10.0

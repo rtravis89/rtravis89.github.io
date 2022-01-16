@@ -1,7 +1,7 @@
 baseurl = ""
 languageCode = "en-us"
 title = "Ryan's blog"
-theme = "bear"
+theme = "hugo-bearblog-master"
 googleAnalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
